@@ -1,0 +1,14 @@
+Requirement already satisfied: numpy in /sci/labs/asafle/yoel.marcu2003/myenv/lib/python3.11/site-packages (2.0.2)
+Requirement already satisfied: tqdm in /sci/labs/asafle/yoel.marcu2003/myenv/lib/python3.11/site-packages (4.67.1)
+Processing pos_train.fasta -> /sci/labs/asafle/yoel.marcu2003/dataset/ohe_embeddings/pos_train_ohe.npy
+Saved /sci/labs/asafle/yoel.marcu2003/dataset/ohe_embeddings/pos_train_ohe.npy (57233 sequences)
+Processing pos_val.fasta -> /sci/labs/asafle/yoel.marcu2003/dataset/ohe_embeddings/pos_val_ohe.npy
+Saved /sci/labs/asafle/yoel.marcu2003/dataset/ohe_embeddings/pos_val_ohe.npy (8177 sequences)
+Processing pos_test.fasta -> /sci/labs/asafle/yoel.marcu2003/dataset/ohe_embeddings/pos_test_ohe.npy
+Saved /sci/labs/asafle/yoel.marcu2003/dataset/ohe_embeddings/pos_test_ohe.npy (16353 sequences)
+Processing neg_train.fasta -> /sci/labs/asafle/yoel.marcu2003/dataset/ohe_embeddings/neg_train_ohe.npy
+Saved /sci/labs/asafle/yoel.marcu2003/dataset/ohe_embeddings/neg_train_ohe.npy (572341 sequences)
+Processing neg_val.fasta -> /sci/labs/asafle/yoel.marcu2003/dataset/ohe_embeddings/neg_val_ohe.npy
+Saved /sci/labs/asafle/yoel.marcu2003/dataset/ohe_embeddings/neg_val_ohe.npy (81763 sequences)
+Processing neg_test.fasta -> /sci/labs/asafle/yoel.marcu2003/dataset/ohe_embeddings/neg_test_ohe.npy
+Saved /sci/labs/asafle/yoel.marcu2003/dataset/ohe_embeddings/neg_test_ohe.npy (163526 sequences)
